@@ -118,6 +118,7 @@
       "Betaflight",
       "Directory",
       "NemesisXB",
+      "Rex Alba",
       "ctzsnooze",
       "sugarK"
     ],
@@ -135,6 +136,7 @@
       "HV",
       "IRC",
       "OSD",
+      "RexAlba",
       "SA 2.0",
       "SA 2.0 lite",
       "SA 2.1",
@@ -864,6 +866,34 @@
       "author": "Betaflight",
       "description": [
         "Resets the saved flight stats values back to zero"
+      ]
+    },
+    {
+      "fullPath": "presets/4.3/rates/Alba_rates.txt",
+      "hash": "1a587be2461c79d6371c709281a5e2496a5f9cfbec0f3cb9976f3ba19b02362d",
+      "options": [
+        {
+          "name": "Actual rates analogue",
+          "checked": false
+        }
+      ],
+      "title": "Rex Alba rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "RexAlba",
+        "freestyle"
+      ],
+      "author": "Rex Alba",
+      "description": [
+        "Freestyle rates"
+      ],
+      "discussion": "https://github.com/betaflight/firmware-presets/pull/94",
+      "include": [
+        "presets/4.3/rates/defaults.txt"
       ]
     },
     {
